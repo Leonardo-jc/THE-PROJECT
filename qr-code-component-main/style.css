@@ -3,7 +3,6 @@
       padding: 0;
       box-sizing: border-box;
       background-color: hsl(0, 0%, 87%);
-      font-family: poppins, sans-serif;
     }
     body{
       width: 60vw;
@@ -23,7 +22,7 @@
       background-color: hsl(0, 13%, 91%);
       align-items: center;
       padding: .2rem;
-      box-shadow: 0px 0px 7px 1px rgba(66, 66, 66, 0.644);
+      box-shadow: 0px 0px 7px 1px rgba(114, 114, 114, 0.19);
       border-radius: 25px;
     }
     .qr-container{
@@ -40,21 +39,19 @@
     .container h3{
       font-weight: 700;
       font-size: 1rem;
-      text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.459);
+      text-shadow: 0px 0px 1px rgba(173, 171, 171, 0.726);
       line-height: 1.1rem;
-      font-family: [Outfit]url(https://fonts.google.com/specimen/Outfit);
+      font-family: poppins Arial, Helvetica, sans-serif;
       text-align: center;
       margin: 1rem .9rem;
-      color: rgb(77, 79, 80);
-      background-color: inherit;
+      color: rgb(66, 66, 66);
     }
     .container p{
       font-size: .7rem;
-      text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.459);
-      font-family:[outfit] url(https://fonts.google.com/specimen/Outfit);
+      text-shadow: 0px 0px 1px rgba(173, 171, 171, 0.726);
+      font-family: poppins Arial, Helvetica, sans-serif;
       text-align: center;
       margin: 1rem .7rem;
-      background-color: inherit;
       margin: auto 1.2rem;
     }
     .attribution{
